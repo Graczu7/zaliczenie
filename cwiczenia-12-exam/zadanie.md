@@ -46,6 +46,8 @@
 * W specyfikacji uwzględnij konfigurację tablicy routingu
 * Dokumentację graficzną stworzonej architektury przygotuj w programie ``DIA`` lub podobnym
 
+
+
 Rozwiązanie
 
     sale - 188.156.220.160/28
